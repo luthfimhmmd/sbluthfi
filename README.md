@@ -16,20 +16,24 @@ Cara Install Self Bot :
 - Ketik -> `pip3 install pytz`
 - Ketik -> `pip3 install humanfriendly`
 - Ketik -> `pip3 install googletrans`
-- Ketik -> `git clone https://github.com/termuxapp/SelfBotLine`
-- Ketik -> `cd BotLinePython3`
-- Ketik -> `python3 Nadyasb.py`
+- Ketik -> `https://github.com/luthfimhmmd/sbluthfi'
+
+- Ketik -> `python3 luthfisb.py`
 
 Cara Menjalankan Bot Kembali :
 ------
-- Ketik -> `cd LineBotPython3`
-- Ketik -> `python3 Nadyasb.py`
+- Ketik -> `cd sbluthfi`
+- Ketik -> `python3 luthfisb.py
 
 
-Credit By@ mr_musa.
+
+
+
+
+
 ------
-- `Follow My Instagram : sms_mo`
-- `Add My ID telegram : t.me/mr_musa`
+
+
 
 Thx To :
 ------
