@@ -76,7 +76,7 @@ def sendMessageWithMention(to, mid):
         
 def helpmessage():
     helpMessage = "╔═══════════════" + "\n" + \
-                  "╠♥ ✿✿✿ mr musa ✿✿✿ ♥" + "\n" + \
+                  "╠ ✿✿✿ WELCOME ✿✿✿ " + "\n" + \
                   "║" + "\n" + \
                   "╠══✪〘 Help Message 〙✪══" + "\n" + \
                   "║" + "\n" + \
@@ -151,7 +151,7 @@ def helpmessage():
                   "╠➥ SearchImage「Search」" + "\n" + \
                   "╠➥ ScreenshootWebsite「LinkUrl」" + "\n" + \
                   "║" + "\n" + \
-                  "╚═〘 Credits By: ©MUSA  〙"
+                  "╚═〘 Credits By: Luthfi  〙"
     return helpMessage
     
 def helptexttospeech():
@@ -210,7 +210,7 @@ def helptexttospeech():
                          "╠ vi : Vietnamese" + "\n" + \
                          "╠ cy : Welsh" + "\n" + \
                          "╚══[ Jangan Typo ]" + "\n" + "\n\n" + \
-                          "Contoh : say-id Nadya Cantik"
+                          "Contoh : say-id Chaca Cantik"
     return helpTextToSpeech
     
 def helptranslate():
@@ -322,7 +322,7 @@ def helptranslate():
                        "╠ fil : Filipino" + "\n" + \
                        "╠ he : Hebrew" + "\n" + \
                        "╚══[ Jangan Typo ]" + "\n" + "\n\n" + \
-                         "Contoh : tr-id Nadya Cantik"
+                         "Contoh : tr-id chaca Cantik"
     return helpTranslate
 #==============================================================================#
 def lineBot(op):
